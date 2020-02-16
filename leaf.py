@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from leafpy import Leaf
 from configparser import ConfigParser
 from datetime import datetime
