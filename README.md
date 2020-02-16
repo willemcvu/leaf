@@ -1,5 +1,5 @@
 # leaf
-A command-line utility to control and view data from your Nissan Leaf, using Python.
+A very simple command-line utility to control and view data from your Nissan Leaf, using Python.
 
 ## Usage
 Clone to a convenient location, and add that directory to your path. Now:
