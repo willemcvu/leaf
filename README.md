@@ -1,6 +1,9 @@
 # leaf
 A very simple command-line utility to control and view data from your Nissan Leaf, using Python.
 
+![example](https://github.com/willemcvu/leaf/blob/master/example.png)
+
+
 ## Usage
 1. Clone to a convenient location, and add that directory to your path.
 2. Install https://github.com/nricklin/leafpy: `$ pip install leafpy`
