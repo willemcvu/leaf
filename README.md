@@ -7,8 +7,8 @@ A very simple command-line utility to control and view data from your Nissan Lea
 3. Control your climate control system and view battery and energy info!
 
 ```
-$ leaf.py -h
-usage: leaf.py [-h] {climateon,climateoff,batteryinfo,energyinfo} ...
+$ leaf -h
+usage: leaf [-h] {climateon,climateoff,batteryinfo,energyinfo} ...
 
 positional arguments:
   {climateon,climateoff,batteryinfo,energyinfo}
